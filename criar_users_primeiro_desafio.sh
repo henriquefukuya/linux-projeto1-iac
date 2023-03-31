@@ -1,4 +1,4 @@
-nicho "Criando diretório do primeiro desafio..."
+echo "Criando diretório do primeiro desafio..."
 
 mkdir /publico /adm /ven /sec
 
